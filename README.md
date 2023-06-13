@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GVIRDilshan](https://github.com/gvirdilshan)
 
-- 📫 How to reach me **ishanravidu750@gmail.com**
+- 📫 How to reach me **ishanravidu975@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
