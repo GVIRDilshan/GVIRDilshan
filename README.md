@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=00ffff&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Ishan+Ravidu+Dilshan!;+I'm+a+Student.;+I'm+a+Fullstack+Developer.;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=a8ff78&height=70&duration=3000&lines=Hi+There!+👋;+It's me+Ishan+Ravidu+Dilshan!;+I'm+a+Student.;+I'm+a+Fullstack+Developer.;" />
 </h1><h3 align="center">A trying to be a Software Engineer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gvirdilshan" alt="gvirdilshan" /></a> </p>
